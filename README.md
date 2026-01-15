@@ -24,8 +24,8 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd credit-coin/repo
+git clone https://github.com/phamdat721101/creditcoin-rwa-starter.git
+cd creditcoin-rwa-starter
 ```
 
 ### 2. Install Dependencies
